@@ -1,4 +1,2 @@
-# Python-by-topics
-Topic-wise Python practice problems.
-
-## List of topics:
+# python-practice
+Python programming practice question
